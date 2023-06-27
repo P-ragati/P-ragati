@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning AI-900
 <!--
 **P-ragati/P-ragati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
